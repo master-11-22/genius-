@@ -1,3 +1,8 @@
 echo "ps -ef"
 echo "sudo systemctl status Jenkins"
 echo "roy"
+
+
+echo "ps -ef"
+echo "sudo systemctl status Jenkins"
+echo "Korir"
